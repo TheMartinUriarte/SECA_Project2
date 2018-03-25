@@ -29,8 +29,7 @@ dependencyManagement {
 	}
 }
 
-
 dependencies {
 	compile('org.springframework.cloud:spring-cloud-starter-zuul')
-	testCompile('org.springframework.cloud:spring-cloud-starter-eureka')
+	Compile('org.springframework.cloud:spring-cloud-starter-eureka')
 }
