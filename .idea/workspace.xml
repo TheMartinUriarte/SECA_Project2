@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04bd0aa7-e5fa-4bda-a613-2a0a6d27ed0a" name="Default" comment="" />
+    <list default="true" id="04bd0aa7-e5fa-4bda-a613-2a0a6d27ed0a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/users-api/build.gradle" afterPath="$PROJECT_DIR$/users-api/build.gradle" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -193,6 +195,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1280" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
